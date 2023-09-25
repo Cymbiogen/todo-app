@@ -11,7 +11,7 @@ while True:
     user_action = user_action.strip()
 
     if user_action.startswith("add"):
-        # todo = input("Enter a todo: ") + "\n"
+
         # file = open("files/todos.txt", 'r')
         # todos = file.readlines()
         # file.close()
