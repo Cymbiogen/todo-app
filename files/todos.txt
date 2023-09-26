@@ -1,8 +1,6 @@
 prepare
-clean the programSomething Redsuccess
 second liner
 make pizza
-Edit The Edit Buttongui
 some new todo
 some new todo
 lastyly
